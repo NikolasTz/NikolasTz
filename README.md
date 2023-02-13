@@ -1,10 +1,10 @@
 ### Hi there my name is Nikolaos Tzimos 👋
 
-### 🔭 I’m currently working on maintenance of graphical models at Apache Flink
-### 📫 I’m currently learning machine learning in big data platforms(such as Apache Flink,Apache Spark)
-### 👯 I’m looking to collaborate on projects in the field of scalable streaming processing
-### 🌱 I’m currently studing on Technical University of Crete
-### 💬 How to reach me: nikostzim12@gmail.com
+* 🔭 I’m currently working on maintenance of graphical models at Apache Flink
+* 📫 I’m currently learning machine learning in big data platforms(such as Apache Flink,Apache Spark)
+* 👯 I’m looking to collaborate on projects in the field of scalable streaming processing
+* 🌱 I’m currently studing on Technical University of Crete
+* 💬 How to reach me: nikostzim12@gmail.com
 
 <!--
 **NikolasTz/NikolasTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

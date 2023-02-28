@@ -1,6 +1,6 @@
 ### Hi there my name is Nikolaos Tzimos 👋
 
-* 🔭 I’m currently working on maintenance of graphical models at Apache Flink
+* 🔭 I’m currently working on online maintenance of graphical models at Apache Flink
 * 📫 I’m currently learning machine learning in big data platforms(such as Apache Flink,Apache Spark)
 * 👯 I’m looking to collaborate on projects in the field of scalable streaming processing
 * 🌱 I’m currently studing on Technical University of Crete

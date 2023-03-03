@@ -6,6 +6,8 @@
 * 🌱 I’m currently studing on Technical University of Crete
 * 💬 How to reach me: nikostzim12@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTza&layout=compact)](https://github.com/NikolasTz/github-readme-stats)
+
 <!--
 **NikolasTz/NikolasTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

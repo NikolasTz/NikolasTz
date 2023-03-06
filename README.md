@@ -1,3 +1,12 @@
+
+<p align="center">
+<a href="https://nikolastz.github.io/"><img src="https://img.shields.io/badge/Website-blue?logo=web"></a>  
+<a href="https://github.com/NikolasTz" target="_blank" ><img src="https://badgen.net/badge/icon/github?icon=github&label&color=blue"/></a>
+<a href="https://nikolastz.github.io/docs/cv.pdf"><img src="https://img.shields.io/badge/PDF-CV-blue?logo=adobe"></a> 
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nikostzim12@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?e&logo=gmail&logoColor=white"></a>
+</p>
+
 ### Hi there my name is Nikolaos Tzimos 👋
 
 * 🔭 I’m currently working on online maintenance of graphical models at Apache Flink

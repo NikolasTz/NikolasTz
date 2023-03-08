@@ -1,5 +1,5 @@
 
-<p align="right">
+<p align="left">
 <a href="https://nikolastz.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?logo=web"></a>  
 <!-- <a href="https://github.com/NikolasTz" target="_blank" ><img src="https://badgen.net/badge/icon/github?icon=github&label&color=blue"/></a> -->
 <a href="https://nikolastz.github.io/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-CV-blue?logo=adobe"></a> 

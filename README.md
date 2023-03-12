@@ -16,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTz&layout=compact)](https://github.com/NikolasTz/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolasTz&email=nikostzim12@gmail.com&theme=default) 
+
 <!--
 **NikolasTz/NikolasTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

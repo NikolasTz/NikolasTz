@@ -14,9 +14,9 @@
 * 🌱 I’m currently studying on Technical University of Crete
 <!-- * 💬 How to reach me: nikostzim12@gmail.com -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTz&layout=compact)](https://github.com/NikolasTz/github-readme-stats)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolasTz&email=nikostzim12@gmail.com&theme=github) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolasTz&email=nikostzim12@gmail.com&theme=default) 
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolasTz&theme=github)
 
 <!--
 **NikolasTz/NikolasTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

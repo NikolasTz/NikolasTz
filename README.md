@@ -8,10 +8,15 @@
 
 ### Hi there my name is Nikolaos Tzimos 👋
 
-* 🔭 I’m currently working on online maintenance of graphical models at Apache Flink
-* 📫 I’m currently learning machine learning in big data platforms(such as Apache Flink,Apache Spark)
-* 👯 I’m looking to collaborate on projects in the field of scalable streaming processing
-<!-- * 💬 How to reach me: nikostzim12@gmail.com -->
+* 📫 I am actively learning and working on Database Management Systems(DBMS) and Distributed (Streaming) Data Systems</span>
+* 👯 I’m looking to collaborate on projects in the field of scalable and distributed data processing systems
+*  🔭 Worked on online maintenance of graphical models at Apache Flink and Spark
+      * Distributed Machine Learning Algorithms - Bayesian Networks and Naive Bayes Classifiers
+      * Maximum Likelihood Estimation - MLE
+      * Data Synopses - Sketches
+      * Functional Geometric Monitoring - FGM
+      * Distributed and Commiication Efficient Counters
+* 💬 Ask me about: nikostzim12@gmail.com
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolasTz&email=nikostzim12@gmail.com&theme=github) 
 
